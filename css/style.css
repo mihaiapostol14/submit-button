@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background: #000;
+}
+
+.submit-btn {
+  background-color: #1e272e;
+  color: #4bcffa;
+  border: none;
+  padding: 15px 30px;
+  font-size: 18px;
+  text-transform: uppercase;
+  cursor: pointer;
+  border-radius: 5px;
+  letter-spacing: 2px;
+  font-weight: bold;
+  transition: box-shadow 0.3s ease-in-out, transform 0.2s ease-in-out;
+}
