@@ -1,6 +1,6 @@
 # CSS Button Styling
 
-This CSS code defines a simple, modern button with smooth hover effects.
+This repository contains a simple, modern button with smooth hover effects implemented using CSS and HTML.
 
 ## Global Styles
 - **Reset Styles:** Removes default margin and padding from all elements.
@@ -31,8 +31,21 @@ This CSS code defines a simple, modern button with smooth hover effects.
     box-shadow: 0 0 15px rgba(75, 207, 250, 0.8);
     transform: scale(1.05);
   }
+  ```
 
-Cloning project or download archive
+## Setup Instructions
+To clone the project or download the archive, use the following command:
 ```bash
 git clone https://github.com/mihaiapostol14/submit-button.git
 ```
+
+## Usage Examples
+1. Open the `index.html` file in a web browser to see the button in action.
+2. Modify the CSS file to customize the button's appearance further.
+
+## Contribution Guidelines
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes and commit them (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Open a pull request.
